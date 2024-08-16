@@ -4,7 +4,7 @@
 ## 👉 Requirements
 Non-exhaustive list:
 * python3.9+
-* Pytorch 1.12.1
+* Pytorch 1.10.1
 * nibabel
 * Scipy
 * NumPy
