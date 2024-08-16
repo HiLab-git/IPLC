@@ -43,6 +43,7 @@ your/data_root/
            lab/
 ```
 The network takes nii files as an input. The gt folder contains gray-scale images of the ground-truth, where the gray-scale level is the number of the class (0,1,...K).
+
 2. Download the [SAM-Med2D model](https://drive.google.com/file/d/1ARiB5RkSsWmAB_8mqWnwDF8ZKTtFwsjl/view?usp=drive_link) and move the model to the "your_root/pretrain_model" directory in your project.
 
 3. Train the source model in the source domain, for instance, you can train the source model using domain A on the M&MS dataset:
