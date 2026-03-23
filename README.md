@@ -78,6 +78,13 @@ If you find this project useful for your research, please consider citing:
   year={2024},
   organization={Springer}
 }
+@article{zhang2025iplc+,
+  title={Iplc+: Sam-guided iterative pseudo label correction for source-free domain adaptation in medical image segmentation},
+  author={Zhang, Guoning and Qi, Xiaoran and Wu, Jianghao and Yan, Bo and Wang, Guotai},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  publisher={IEEE}
+}
 ``` 
 ## 🤝 Acknowledgement
 - Thanks to the open-source of the following projects: [Segment Anything](https://github.com/facebookresearch/segment-anything); [SAM-Med2D](https://github.com/cv-chaitali/SAM-Med2D)
